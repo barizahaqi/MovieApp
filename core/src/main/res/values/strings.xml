@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_desc">Image</string>
+    <string name="title_movie">title_movie</string>
+    <string name="subtitle_movie">subtitle_movie</string>
+</resources>

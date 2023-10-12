@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="movie_app">Movie App</string>
+    <string name="my_movie_app">My Movie App</string>
+    <string name="error_text">Error</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="overview_movie">Overview</string>
+    <string name="information_movie">Information Movie</string>
+
+</resources>
