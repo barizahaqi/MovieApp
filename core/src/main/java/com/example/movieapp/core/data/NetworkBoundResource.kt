@@ -35,6 +35,7 @@ abstract class NetworkBoundResource<ResultType, RequestType>(private val mExecut
         }
     }
 
+    @Suppress("EmptyMethod")
     protected open fun onFetchFailed() {}
 
     protected abstract fun loadFromDB(): Flow<ResultType>

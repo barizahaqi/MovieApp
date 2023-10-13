@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">MovieApp</string>
-    <string name="title_activity_main">MainActivity</string>
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="menu_home">Home</string>
